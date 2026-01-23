@@ -93,7 +93,6 @@ cd krishi_sathi
 1. Go to [MongoDB Atlas](https://www.mongodb.com/atlas)
 2. Create a free account and cluster
 3. Get your connection string from the "Connect" button
-4. It will look like: `mongodb+srv://username:password@cluster.mongodb.net/krishi-sathi-DB`
 
 ### 3. Backend Setup
 
